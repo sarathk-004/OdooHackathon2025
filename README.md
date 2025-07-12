@@ -1,10 +1,10 @@
 # ReWear – Community Clothing Exchange
 
 ## Team Members
-* Sarath Kothapalli
-* Deekshith Sistu
-* Nitin Behara
-* Neerav Krishna Uppu
+* Sarath Kothapalli (Team Lead - Frontend & Backend Development)
+* Deekshith Sistu (Backend & Database Design)
+* Nitin Behara (Frontend & UI Development)
+* Neerav Krishna Uppu (Backend & Database Design)
 
 ---
 
